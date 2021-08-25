@@ -1,13 +1,15 @@
 # Car SellingPrice Analysis and Prediction
-##Project Overview: 
+## Project Overview: 
 
 The aim of this project is to predict the selling price of car based on the following attributes  
 Present Price  
 kilometers driven  
 fuel type  
-Transmission type 
-Seller Type
-Owner  
-**Detailed Analysis** [here] (/Carprice_Prediction.ipynb)
+Transmission type   
+Seller Type  
+Owner    
+
+**Detailed Analysis** [here](/Carprice_Prediction.ipynb)   
+Framework Used - Flask  
 
 Heroku Link to launch predictor :-  http://carsellingprice012.herokuapp.com/
