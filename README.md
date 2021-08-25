@@ -6,6 +6,8 @@ Present Price
 kilometers driven  
 fuel type  
 Transmission type 
-Owner 
+Seller Type
+Owner  
+**Detailed Analysis** [here] (/Carprice_Prediction.ipynb)
 
 Heroku Link to launch predictor :-  http://carsellingprice012.herokuapp.com/
